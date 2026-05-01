@@ -1,0 +1,21 @@
+{
+  "name": "sinhabackend",
+  "version": "1.0.0",
+  "description": "basic backend",
+  "keywords": [
+    "node",
+    "chai",
+    "sinha"
+  ],
+  "license": "ISC",
+  "author": "sinha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
